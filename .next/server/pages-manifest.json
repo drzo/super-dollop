@@ -4,6 +4,8 @@
   "/_document": "pages/_document.js",
   "/": "pages/index.js",
   "/admin": "pages/admin.js",
-  "/api/shopify": "pages/api/shopify.js",
+  "/analytics": "pages/analytics.js",
+  "/dashboard": "pages/dashboard.js",
+  "/store-connections": "pages/store-connections.js",
   "/shopify-setup": "pages/shopify-setup.js"
 }
