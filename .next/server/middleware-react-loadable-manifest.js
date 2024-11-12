@@ -1,1 +1,1 @@
-self.__REACT_LOADABLE_MANIFEST="{}"
+self.__REACT_LOADABLE_MANIFEST="{\"pages/analytics.js -> react-apexcharts\":{\"id\":\"pages/analytics.js -> react-apexcharts\",\"files\":[\"static/chunks/node_modules_react-apexcharts_dist_react-apexcharts_min_js.js\"]}}"
